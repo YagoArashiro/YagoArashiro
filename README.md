@@ -31,4 +31,4 @@ Esse é o teste do site HTML que eu fiz, demorei exatos 150 dias para fazer isso
 - Jogo: https://editor.p5js.org/yago.arashiro.silva/full/nRhnHWi8z
 
 
-![Among Us Rebolando](https://media.tenor.com/O_x4UCmt5p0AAAAj/among-us-twerk.gif)
+![Among Us Rebolando](https://editor.p5js.org/yago.arashiro.silva/full/phDEkNnpV)
