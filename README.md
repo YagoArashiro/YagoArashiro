@@ -31,4 +31,4 @@ Esse é o teste do site HTML que eu fiz, demorei exatos 150 dias para fazer isso
 - Jogo: https://editor.p5js.org/yago.arashiro.silva/full/phDEkNnpV
 
 
-![Among Us Rebolando](https://i.pinimg.com/originals/5b/79/c8/5b79c81933edbf2f1ee45ce16abb5ea1.gif)
+![Among Us Rebolando](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMJNk_yjsF0e_ERJTy8O3Pyf3iMiY9ZzAYg&s)
